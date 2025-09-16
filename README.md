@@ -1,2 +1,2 @@
 # PROYECTO_4
-Presentaciones con gamma y explorado con perplexity
+Presentaciones con Gamma y explorado con Perplexity
